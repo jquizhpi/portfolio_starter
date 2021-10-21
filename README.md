@@ -8,23 +8,23 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 ### Set up
 
-- [x] Complete the [Project Planning Document](https://docs.google.com/document/d/19kWZMa_uTM0NtrArYVYxH0ozEx4P4U69hoXMJYVq4vY/edit). Make sure you have thought about how you want your portfolio to look and feel, and that you have finished the wireframe! 
+- [ ] Complete the [Project Planning Document](https://docs.google.com/document/d/19kWZMa_uTM0NtrArYVYxH0ozEx4P4U69hoXMJYVq4vY/edit). Make sure you have thought about how you want your portfolio to look and feel, and that you have finished the wireframe! 
 
 - [x] Go to the repository.
 
-- [x] Fork this repository to your GitHub account.
+- [ ] Fork this repository to your GitHub account.
 
-- [x] Create a new project on Glitch that imports your repo from GitHub.
+- [ ] Create a new project on Glitch that imports your repo from GitHub.
 
-- [x] If there's time, start the Day 2 HTML and CSS tasks. 
+- [ ] If there's time, start the Day 2 HTML and CSS tasks. 
 
 ## Day 2
 
 ### HTML
 
-- [x] Add a header with your name to your Portfolio homepage.
+- [ ] Add a header with your name to your Portfolio homepage.
 
-- [x] Update the title tag of both of your pages.
+- [ ] Update the title tag of both of your pages.
 
 - [ ] Create your navigation bar that will link all your pages together.
 
